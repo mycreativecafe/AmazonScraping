@@ -1,8 +1,8 @@
 """
     Amazon Web scraper
 
-    Modified:   2020-12-20
-    Author:     Israel Dryer
+    Modified:   16-May-2021
+    Author:     Nikhil sharma
 """
 import csv
 from time import sleep
